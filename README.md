@@ -2,8 +2,27 @@
 
 ![image](https://github.com/user-attachments/assets/99c36ed0-01c1-4360-b809-80a4ce8d5adb)
 
+Welcome to the Geographical Information System design documentation for the University of Western Ontario Campus project! This project aims to create
+a comprehensive GIS application for the university campus, including various maps and visualizations that campus administrators can use for students,
+faculty, and visitors. The goal of this project is to provide a better understanding of the campus and its surroundings, identify areas that may need
+improvement, and guide future development and planning efforts.
 
-////// IMPORTANT //////
+# Overview
+The University Campus GIS design is a software solution that addresses the need for a more detailed understanding of the campus and its interior spaces.
+This project involves collecting, organizing, and analyzing various data sets related to the campus, such as locations of multiple resources, facilities, and
+other points of interest. The GIS design will help us create maps that provide valuable insights into the campus and its surroundings, enabling its users to
+navigate within the building.
+
+# Objectives
+The general objectives of this design document and project are as follows:
+To create a comprehensive GIS design of the university campus and its surroundings.
+To create an interactive mockup of the user interference for our software.
+To provide a valuable tool for understanding the campus and its indoor spaces.
+To increase knowledge of the layout of Western's underground tunnel system to better navigate between buildings.
+To deliver a high-quality and user-friendly software solution.
+
+
+# ////// IMPORTANT //////
 
 IF JAR DOES NOT WORK RUN THE App.java class, using an IDE, located in the src folder within the repoisitory. email: ssriva252@uwo.ca for inquiries if running has issues. thanks.
 
