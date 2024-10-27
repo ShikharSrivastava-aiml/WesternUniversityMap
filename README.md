@@ -5,7 +5,7 @@
 
 ////// IMPORTANT //////
 
-IF JAR DOES NOT WORK RUN THE App.java class, using an IDE, located in the src folder within the repoisitory. email: psran2@uwo.ca for inquiries if running has issues. thanks.
+IF JAR DOES NOT WORK RUN THE App.java class, using an IDE, located in the src folder within the repoisitory. email: ssriva252@uwo.ca for inquiries if running has issues. thanks.
 
 
 
