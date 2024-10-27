@@ -22,7 +22,7 @@ To increase knowledge of the layout of Western's underground tunnel system to be
 To deliver a high-quality and user-friendly software solution.
 
 
-# ////// IMPORTANT //////
+# IMPORTANT 
 
 IF JAR DOES NOT WORK RUN THE App.java class, using an IDE, located in the src folder within the repoisitory. email: ssriva252@uwo.ca for inquiries if running has issues. thanks.
 
